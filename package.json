@@ -9,8 +9,7 @@
   },
   "dependencies": {
     "line-reader": "~0.4.0",
-    "request": "~2",
-    "sqlite3": "~3.1.0"
+    "request": "~2"
   },
   "repository": {
     "type": "git",
